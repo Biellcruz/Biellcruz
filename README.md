@@ -19,6 +19,9 @@ oportunidades para aplicar e desenvolver soluções inteligentes e eficazes.
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biellcruz&show_icons=true&theme=radical)
+
+
 
 
 
