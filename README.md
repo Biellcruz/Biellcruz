@@ -22,5 +22,4 @@ oportunidades para aplicar e desenvolver soluções inteligentes e eficazes.
 
 
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biellcruz&theme=nord&show_icons=true)
+
