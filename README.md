@@ -1,9 +1,26 @@
-### Olá, eu sou o Gabriel Cruz
 
-### Habilidades
-![Python](https://camo.githubusercontent.com/bc477aee3002410a30a73cc249778a07c751a3ecf8a194e61b83119bd83b18d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d77686974653f7374796c653d726f756e64266c6f676f3d507974686f6e)
-![SQL](https://camo.githubusercontent.com/ea2248a869ac13b9811a28c71c5999ca7a0d5feed46bcd3b3b1502e52bdcac7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d73716c697465)
-![Google looker](https://camo.githubusercontent.com/57454dd2e2c9cf9d816ee245204e81d9056f2685a0a739b078b0e412cd99b636/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476f6f676c655f4c6f6b65725f53747564696f2d3064306430643f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c65)
-![AWS](https://camo.githubusercontent.com/02d8aee9efb48b914fbc170667d6d746f8d3cd02f840dc86e71d52b8e44e0e9b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773)
+# Gabriel Cruz
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biellcruz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🚀 Sobre mim
+<p>Formado em Produção Fonográfica atualmente cursando MBA em Data Science e Analytics, estou imerso em uma 
+transição de carreira dinâmica e apaixonante. Possuo um perfil híbrido, que une criatividade e competências 
+técnicas e estou comprometido em expandir meu conhecimento e habilidades, buscando sempre novas 
+oportunidades para aplicar e desenvolver soluções inteligentes e eficazes. 
+</p>
+
+
+## 🛠 Habilidades
+
+![Python](https://img.shields.io/badge/Python-005C84?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=MySQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-005C84?style=for-the-badge&logo=SQLite)
+![Power BI](https://img.shields.io/badge/Power_BI-005C84?style=for-the-badge&logo=Power%20BI&logoColor=F2C811)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+
+
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biellcruz&theme=nord&show_icons=true)
